@@ -1,4 +1,4 @@
-export * as DiscordTS from "npm:discord.js";
+export * from "npm:discord.js";
 export { default } from "npm:discord.js";
 
 class DenoAdapter {
